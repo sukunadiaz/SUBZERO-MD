@@ -9,8 +9,8 @@ $$\   $$ |$$ |  $$ |$$ |  $$ | $$  _/   $$   ____|$$ |      $$ |  $$ |
 \$$$$$$  |\$$$$$$  |$$$$$$$  |$$$$$$$$\ \$$$$$$$\ $$ |      \$$$$$$  |
  \______/  \______/ \_______/ \________| \_______|\__|       \______/
 
-- Project Name : SubZero MD
-- Creator      : Darrell Mucheri ( Mr Frank OFC )
+- Project Name : Diaz MD
+- Creator      : Bishop Dennis
 - Repo         : https//github.com/mrfrank-ofc/SUBZERO-MD
 - Support      : wa.me/18062212660
 - Channel      : https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
